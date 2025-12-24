@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 **3. Projeyi Çalıştırın**
 ```bash
-python main.py
+python url-detection.py
 ```
 
 # 📝 Notlar
