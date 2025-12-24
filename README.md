@@ -30,7 +30,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 Terminali açın ve projeyi klonlayın:
 ```bash
 git clone https://github.com/sedat0kara/phishing-url-detection.git
-cd url-detection
+cd url_detection
 ```
 
 **2. Gerekli Kütüphaneleri Yükleyin**
